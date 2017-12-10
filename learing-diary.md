@@ -108,7 +108,7 @@ One pair decided that the 'subscribe feed' message should be emitted in the `onC
 
 ### Day 7 - Sunday
 
-Again, as a team we each worked remotley picking up cards for different features using GitHub's built in project board. Pairing was implemented when and where possible and a lot of progress was made, especially on the server side.  It was decided that we need a build script, specifially for the database and this was created and integrated with Travis CI. Further testing was completed on the frontend and coverage was up to almost %80. 
+Again, as a team we each worked remotley picking up cards for different features using GitHub's built in project board. Pairing was implemented when and where possible and a lot of progress was made, especially on the server side.  It was decided that we need a build script, specifially for the database and this was created and integrated with Travis CI. Further testing was completed on the frontend and coverage was up to almost 80%. 
 
 [Add everyone's progress]
 
