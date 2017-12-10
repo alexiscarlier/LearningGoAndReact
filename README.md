@@ -1,8 +1,13 @@
 # Learning Go And React
 
 ## Overview
-The top-level goal for our final two-week project of Makers Academy was to learn a new language. The focus of this goal was learning Go, and we decided to aim towards building a communications app to frame this learning process.
-A repo of learning resources for our final project at Makers Academy.
+The top-level goal for our final two-week project of Makers Academy was to learn a new language. The focus of this goal was learning Go, and we decided to aim towards building a communications app to frame this learning process. To extend our goal of learning new technologies, we decided to write the front-end of the application in ReactJS, a framework which was new to everyone in the group.
+
+This repo is a collection of resources we used to support and document our process of learning Go and ReactJS for our final project. Its purpose is to:
+- Formalize the process of learning new languages to provide a framework for learning languages in the future;
+- Record key learning outcomes from exploring Go and ReactJS to be used as a reference-point, during the project and afterwards;
+- Enable tight, reflective cycles during the project to guide our learning and maximise our efficiency;
+- Leverage the capacity of the group by supporting each others' learning.
 
 ## Neighbour.ly
 
@@ -13,4 +18,8 @@ Neighbour.ly is the communications app we aimed towards producing as a means of 
 
 ## Go Challenges
 
-To begin learning
+To begin learning Go, we each completed a series of kata-like exercises to explore features of the language.
+
+- [FizzBuzz](github.com/jonsanders101/fizzbuzz-go)
+- [Notebook](https://github.com/jonsanders101/go-notemaker)
+- "Hello World" server
