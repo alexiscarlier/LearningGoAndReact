@@ -35,5 +35,5 @@ To begin learning Go, we each completed a series of kata-like exercises to explo
 - [Notebook](https://github.com/jonsanders101/go-notemaker)
 - ["Hello World" server](https://github.com/jonsanders101/helloworld-go)
 
-![ReactJS Gopher](https://i.imgur.com/v3vdZ1um.pngg)
+![ReactJS Gopher](http://resizeimage.net/viewimg/TK29e2N1OtAdN7dk/ZHhyC/supergopher.png)
 Credit to David Halewood for the ReactJS Super-Gopher
