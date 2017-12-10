@@ -57,25 +57,54 @@ By the end, we reached our MVP.
 
 #### Actions:
 * Consolidate our understanding of the Go server
-* Define the purpose of the Client, Router, Handler and Message `structs` in the Go server
+* Define the purpose of the Client, Router, Handler and Message `struct`s in the Go server
 
 
 ### Day 4 - Thursday
 
-We carried on the structure of 2 pairs on Go and 1 pair on react. Team react is exploring testing in React today. Team Go is exploring test driving the back end server.
+We carried on the structure of two pairs on Go and on pair on React. Team React is exploring testing in React today. Team Go is exploring test driving the back end server.
 
 We had shared ‘spelunking’ session, where we went line-by-line to question the purpose of every line of code to ensure everyone in the group understood the flow.
-
-We agreed to make a growing ‘universe’ of our code in a diagram we would all add to.
 
 We agreed to diagram the React front-end components.
 
 #### Learning gains:
-* How to test components being rendered in react using Jest + Enzyme
+* Testing components being rendered in react using Jest + Enzyme
+* Mocking sever connections in Go using ws-test
+
+#### Actions:
+* Make a growing ‘universe’ of our code in a diagram we would all add to.
+* Review and confirm the purpose of the `&` and `*` tokens in Go
 
 ### Day 5 - Friday
 
+We began with a longer stand-up in which we diagrammed both the React client and Go server sides of the project. We then diagrammed to plan the next features of Neighbour.ly which would allow posts to be submitted and retrieved from the database.
+
+One pair worked on handling the 'add post' message on the Go server, another pair worked on handling the 'subscript feed' message, and another pair continued to test-drive new components on the React front end.
+
+#### Learning gains:
+* Manipulating data in a RethinkDB database through REQL
+
+#### Actions:
+* Research how we would implement a build script to set up the database on first use
+* Research how to approach testing a JavaScript WebSocket
+
 ### Day 6 - Saturday
+
+We each worked remotely, but communicated regularly with some pairing.
+
+One pair decided that the 'subscribe feed' message should be emitted in the `onConnect` function. Tests were added to the client-side WebSocket, using an external package to manually send messages from a server connection.
+
+[Add achievements of others]
+
+#### Learning gains:
+* Manipulating component state in React to implement user signing in and out
+* Mocking web server connections on the front end to test a JavaScript WebSocket object
+* Use of callbacks in unit tests to control tests with asynchronous behaviour
+
+#### Actions:
+* Research testing signing in and out in a React app
+* Find a means of manually sending a close message to a WebSocket to test it
 
 ### Day 7 - Sunday
 
