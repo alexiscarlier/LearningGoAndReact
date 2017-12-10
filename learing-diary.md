@@ -2,7 +2,7 @@
 
 ## Overview
 
-A record of the steps we took to learn essential features of Go and React, which we use to continually reflect on progress and plan next steps.
+A record of the steps we took to learn essential features of Go and React, which we use to continually reflect on progress and set specific actions.
 
 
 ### Day 1 - Monday
@@ -95,7 +95,7 @@ We each worked remotely, but communicated regularly with some pairing.
 
 One pair decided that the 'subscribe feed' message should be emitted in the `onConnect` function. Tests were added to the client-side WebSocket, using an external package to manually send messages from a server connection.
 
-[Add achievements of others]
+[Add everyone's progress]
 
 #### Learning gains:
 * Manipulating component state in React to implement user signing in and out
@@ -107,6 +107,8 @@ One pair decided that the 'subscribe feed' message should be emitted in the `onC
 * Find a means of manually sending a close message to a WebSocket to test it
 
 ### Day 7 - Sunday
+
+[Add everyone's progress]
 
 ### Day 8 - Monday
 
