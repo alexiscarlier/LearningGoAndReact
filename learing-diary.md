@@ -95,7 +95,7 @@ We each worked remotely, but communicated regularly with some pairing.
 
 One pair decided that the 'subscribe feed' message should be emitted in the `onConnect` function. Tests were added to the client-side WebSocket, using an external package to manually send messages from a server connection.
 
-[Add everyone's progress]
+We added functionality allowing users to subscribe to posts so the client would be pushed updates.
 
 #### Learning gains:
 * Manipulating component state in React to implement user signing in and out
@@ -108,9 +108,7 @@ One pair decided that the 'subscribe feed' message should be emitted in the `onC
 
 ### Day 7 - Sunday
 
-Again, as a team we each worked remotley picking up cards for different features using GitHub's built in project board. Pairing was implemented when and where possible and a lot of progress was made, especially on the server side.  It was decided that we need a build script, specifially for the database and this was created and integrated with Travis CI. Further testing was completed on the frontend and coverage was up to 100%!
-
-[Add everyone's progress]
+Again, as a team we each worked remotely picking up cards for different features using GitHub's built in project board. Pairing was implemented when and where possible and a lot of progress was made, especially on the server side.  It was decided that we need a build script, specifically for the database and this was created and integrated with Travis CI. Further testing was completed on the frontend and coverage was up to 100%!
 
 #### Learning gains:
 * Gaining visibility on websocket message and event emmitters
@@ -124,6 +122,11 @@ Again, as a team we each worked remotley picking up cards for different features
 * Expand on sequence diagrams
 
 ### Day 8 - Monday
+
+We held a long meeting in the morning to spelunk each others' weekend contributions and set actions for the day.
+
+#### Actions:
+* Research JavaScript conventions around `let`, `const` and `var`, particularly in unit tests
 
 ### Day 9 - Tuesday
 
