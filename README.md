@@ -31,7 +31,7 @@ Neighbour.ly is the communications app we aimed towards producing as a means of 
 
 To begin learning Go, we each completed a series of kata-like exercises to explore features of the language.
 
-- [FizzBuzz](github.com/jonsanders101/fizzbuzz-go)
+- [FizzBuzz](https://github.com/haletothewood/FizzBuzzGo)
 - [Notebook](https://github.com/jonsanders101/go-notemaker)
 - ["Hello World" server](https://github.com/jonsanders101/helloworld-go)
 
